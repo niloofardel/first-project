@@ -10,3 +10,18 @@ body{
     align-items: center;
     font-size: 13px;
 }
+.Daniel{
+    grid-area:Daniel ;
+}
+.Jonathan{
+    grid-area: Jonathan;
+}
+.Kira{
+    grid-area: Kira;
+}
+.Jeanette{
+    grid-area: Jeanette;
+}
+.Patrick{
+    grid-area: Patrick;
+}
