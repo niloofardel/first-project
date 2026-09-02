@@ -41,3 +41,9 @@ body{
     box-shadow: 15px 35px 75px rgba(0, 0, 0, .3);
     z-index: 0;
 }
+.user{
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
