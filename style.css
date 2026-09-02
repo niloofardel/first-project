@@ -56,3 +56,20 @@ body{
 .Patrick img{
    border: 1.5px solid purple;
 }
+.purple{
+    background-color:  hsl(263, 55%, 52%);
+    color: white;
+   position: relative;
+   overflow: hidden;
+}
+.dark{
+    color: white;
+    background-color: hsl(217, 19%, 35%);
+}
+.white{
+    background-color: white;
+    color: #333;
+}
+.wide{
+    color: white;
+    background-color
