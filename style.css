@@ -34,3 +34,10 @@ body{
     gap: 25px;
     grid-template-areas: "Daniel Daniel Jonathan Kira" "Jeanette Patrick Patrick Kira";
 }
+.card{
+    padding: 27px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 15px 35px 75px rgba(0, 0, 0, .3);
+    z-index: 0;
+}
