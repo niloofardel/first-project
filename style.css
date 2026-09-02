@@ -94,3 +94,24 @@ body{
         font-size: 11px;
         margin-top: 0;
 }
+.card h3{
+    position: relative;
+    font-size: 17px;
+    margin-right: 20px;
+}
+.card p{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    line-height: 15px;
+}
+.Kira p{
+    margin-top: 20px;
+    margin-bottom: 5px ;
+    line-height: 17px;
+}
+.Jeanette p{
+    margin-top: 20px;
+    margin-bottom: 0 ;
+    line-height: 17px;
+}
