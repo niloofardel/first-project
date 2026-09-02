@@ -25,3 +25,12 @@ body{
 .Patrick{
     grid-area: Patrick;
 }
+.container{
+    max-width: 1100px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(2,1fr);
+    gap: 25px;
+    grid-template-areas: "Daniel Daniel Jonathan Kira" "Jeanette Patrick Patrick Kira";
+}
