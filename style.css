@@ -83,3 +83,14 @@ body{
     z-index: 0;
     opacity: 90%;
 }
+.user h4{
+    font-weight: normal;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    font-size: 9px;
+}
+.user span{
+        font-weight: 3px;
+        font-size: 11px;
+        margin-top: 0;
+}
