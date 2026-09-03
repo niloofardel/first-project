@@ -115,3 +115,21 @@ body{
     margin-bottom: 0 ;
     line-height: 17px;
 }
+@media screen and (max-width:500){
+    .container{
+        min-height: 1900px;
+        display: flex;
+        flex-direction: column;
+        padding: 50px 30px;
+    }
+    .pic{
+        display: none;
+    }
+    .card h3{
+font-size: 20px;
+margin-right: 0;
+    }
+    .card p{
+        font-size: 13.5px;
+    }
+}
